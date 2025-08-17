@@ -1,0 +1,9 @@
+pymongo
+pandas
+dash
+jupyter-dash
+dash-leaflet
+plotly
+matplotlib
+numpy
+python-dotenv
